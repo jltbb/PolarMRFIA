@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "bin",
-    "path": "sprites/bin/bin.yy",
+    "name": "bin_red",
+    "path": "sprites/bin_red/bin_red.yy",
   },
   "solid": false,
   "visible": true,
