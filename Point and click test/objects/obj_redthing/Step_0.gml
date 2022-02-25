@@ -11,3 +11,7 @@ if (isSelected) {
     x = mouse_x;
     y = mouse_y;
 }
+
+if !(isSelected){
+	alarm_set(0,1)
+}

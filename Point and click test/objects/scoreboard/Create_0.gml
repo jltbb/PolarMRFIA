@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-timeLeft -= .1
+wrongStreak = 0
+rightStreak = 0

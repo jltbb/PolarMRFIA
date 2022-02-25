@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-timeLeft -= .1
+x = spawnx
+y = spawny

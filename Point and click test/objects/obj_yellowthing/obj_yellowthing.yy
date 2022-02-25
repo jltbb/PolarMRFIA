@@ -22,7 +22,12 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":200.0,"y":0.0,},
+    {"x":200.0,"y":200.0,},
+    {"x":0.0,"y":200.0,},
+  ],
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
