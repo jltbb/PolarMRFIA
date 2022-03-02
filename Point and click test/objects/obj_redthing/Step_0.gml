@@ -1,5 +1,5 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Controls mouse interaction with recycle objects
+
 if (position_meeting(mouse_x, mouse_y, id))
     if (mouse_check_button(mb_left)){
 		isSelected = true
