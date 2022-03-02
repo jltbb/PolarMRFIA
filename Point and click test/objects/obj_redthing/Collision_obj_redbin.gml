@@ -2,7 +2,7 @@
 if !mouse_check_button(mb_left){
 	scoreboard.player_score += redval;
 	if redval > 0{
-		scoreboard.timeLeft = min(scoreboard.timeLeft + extraTime, scoreboard.timeLeftMax);
+		scoreboard.timeLeft += extraTime;
 		scoreboard.rightStreak += 1;
 		scoreboard.wrongStreak = 0;
 	}else{
