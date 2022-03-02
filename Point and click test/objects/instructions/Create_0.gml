@@ -1,3 +1,4 @@
+/// @description Initialize instruction strings
 possibleInstructions = [
 	"Example Instruction #1",
 	"Example Instruction #2",
