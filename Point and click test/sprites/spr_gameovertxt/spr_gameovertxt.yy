@@ -138,7 +138,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_gameovertxt","path":"sprites/spr_gameovertxt/spr_gameovertxt.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_gameovertxt",
     "tags": [],
     "resourceType": "GMSequence",

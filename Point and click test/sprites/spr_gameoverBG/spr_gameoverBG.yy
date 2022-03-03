@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_gameoverBG","path":"sprites/spr_gameoverBG/spr_gameoverBG.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_gameoverBG",
     "tags": [],
     "resourceType": "GMSequence",

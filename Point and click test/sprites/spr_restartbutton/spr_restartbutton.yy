@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_restartbutton",
     "tags": [],
     "resourceType": "GMSequence",

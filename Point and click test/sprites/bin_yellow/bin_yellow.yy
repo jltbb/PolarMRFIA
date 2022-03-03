@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"bin_yellow","path":"sprites/bin_yellow/bin_yellow.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "bin_yellow",
     "tags": [],
     "resourceType": "GMSequence",

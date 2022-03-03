@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"bin_red","path":"sprites/bin_red/bin_red.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "bin_red",
     "tags": [],
     "resourceType": "GMSequence",

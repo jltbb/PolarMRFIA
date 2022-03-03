@@ -59,7 +59,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_skyTile","path":"sprites/spr_skyTile/spr_skyTile.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_skyTile",
     "tags": [],
     "resourceType": "GMSequence",

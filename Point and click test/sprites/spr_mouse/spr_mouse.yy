@@ -63,7 +63,7 @@
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},
-    "resourceVersion": "1.3",
+    "resourceVersion": "1.4",
     "name": "spr_mouse",
     "tags": [],
     "resourceType": "GMSequence",
