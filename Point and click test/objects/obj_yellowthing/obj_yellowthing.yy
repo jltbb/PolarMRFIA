@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_garbage",
-    "path": "sprites/spr_garbage/spr_garbage.yy",
+    "name": "spr_circle3",
+    "path": "sprites/spr_circle3/spr_circle3.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,7 +22,12 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [],
+  "physicsShapePoints": [
+    {"x":0.0,"y":0.0,},
+    {"x":200.0,"y":0.0,},
+    {"x":200.0,"y":200.0,},
+    {"x":0.0,"y":200.0,},
+  ],
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
@@ -34,7 +39,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_garbage",
+  "name": "obj_yellowthing",
   "tags": [],
   "resourceType": "GMObject",
 }

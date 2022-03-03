@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_circle2",
-    "path": "sprites/spr_circle2/spr_circle2.yy",
+    "name": "spr_bottle",
+    "path": "sprites/spr_bottle/spr_bottle.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_paper",
-    "path": "objects/obj_paper/obj_paper.yy",
+    "name": "obj_redthing",
+    "path": "objects/obj_redthing/obj_redthing.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -23,7 +23,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

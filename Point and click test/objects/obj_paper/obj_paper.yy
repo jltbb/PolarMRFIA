@@ -1,15 +1,15 @@
 {
   "spriteId": {
-    "name": "spr_circle2",
-    "path": "sprites/spr_circle2/spr_circle2.yy",
+    "name": "spr_paper",
+    "path": "sprites/spr_paper/spr_paper.yy",
   },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "obj_cardboard",
-    "path": "objects/obj_cardboard/obj_cardboard.yy",
+    "name": "obj_redthing",
+    "path": "objects/obj_redthing/obj_redthing.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,
@@ -22,17 +22,12 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":200.0,"y":0.0,},
-    {"x":200.0,"y":200.0,},
-    {"x":0.0,"y":200.0,},
-  ],
+  "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"blueval","path":"objects/obj_cardboard/obj_cardboard.yy",},"objectId":{"name":"obj_cardboard","path":"objects/obj_cardboard/obj_cardboard.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"redval","path":"objects/obj_cardboard/obj_cardboard.yy",},"objectId":{"name":"obj_cardboard","path":"objects/obj_cardboard/obj_cardboard.yy",},"value":"-5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"redval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"-5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"blueval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
