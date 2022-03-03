@@ -1,7 +1,9 @@
 {
   "resources": [
+    {"id":{"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"order":18,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"instructions","path":"objects/instructions/instructions.yy",},"order":14,},
+    {"id":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},"order":2,},
     {"id":{"name":"obj_redbin","path":"objects/obj_redbin/obj_redbin.yy",},"order":1,},
     {"id":{"name":"bin_red","path":"sprites/bin_red/bin_red.yy",},"order":2,},
     {"id":{"name":"spr_startbutton","path":"sprites/spr_startbutton/spr_startbutton.yy",},"order":16,},
@@ -16,11 +18,15 @@
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},"order":1,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":15,},
     {"id":{"name":"bin_blue","path":"sprites/bin_blue/bin_blue.yy",},"order":12,},
+    {"id":{"name":"obj_gameovertxt","path":"objects/obj_gameovertxt/obj_gameovertxt.yy",},"order":19,},
     {"id":{"name":"DEVCOMMANDS","path":"objects/DEVCOMMANDS/DEVCOMMANDS.yy",},"order":17,},
     {"id":{"name":"spr_circle3","path":"sprites/spr_circle3/spr_circle3.yy",},"order":6,},
+    {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":18,},
     {"id":{"name":"spr_skyTile","path":"sprites/spr_skyTile/spr_skyTile.yy",},"order":10,},
     {"id":{"name":"spr_bear","path":"sprites/spr_bear/spr_bear.yy",},"order":14,},
     {"id":{"name":"obj_beartitle","path":"objects/obj_beartitle/obj_beartitle.yy",},"order":14,},
+    {"id":{"name":"spr_gameovertxt","path":"sprites/spr_gameovertxt/spr_gameovertxt.yy",},"order":19,},
+    {"id":{"name":"spr_gameoverBG","path":"sprites/spr_gameoverBG/spr_gameoverBG.yy",},"order":17,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":11,},
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":15,},
     {"id":{"name":"spr_backG","path":"sprites/spr_backG/spr_backG.yy",},"order":9,},
@@ -44,7 +50,6 @@
   ],
   "isDnDProject": false,
   "isEcma": false,
-  "tutorialPath": "",
   "configs": {
     "name": "Default",
     "children": [],
@@ -52,6 +57,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -77,7 +83,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.606",
+    "IDEVersion": "2022.1.1.610",
   },
   "resourceVersion": "1.4",
   "name": "Point and click test",
