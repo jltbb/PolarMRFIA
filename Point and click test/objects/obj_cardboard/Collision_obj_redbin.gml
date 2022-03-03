@@ -1,7 +1,8 @@
 //If an object is not selected over a bin, destroy it and add score
 if !mouse_check_button(mb_left){
-	scoreboard.player_score += blueval;
-	if blueval > 0{
+	audio_play_sound(pop,10,false)
+	scoreboard.player_score += redval;
+	if redval > 0{
 		scoreboard.timeLeft += extraTime;
 		scoreboard.rightStreak += 1;
 		scoreboard.wrongStreak = 0;

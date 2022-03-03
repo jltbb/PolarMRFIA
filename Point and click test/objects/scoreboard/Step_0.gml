@@ -8,3 +8,9 @@ if (timeLeft <= 0){
 	gameOver = true
 	room_goto_next()
 }
+
+if (player_score < 0)
+{
+	gameOver = true
+	room_goto_next()
+}
