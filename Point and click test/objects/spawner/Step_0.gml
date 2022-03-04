@@ -20,7 +20,7 @@ if scoreboard.gameOver and (instance_exists(obj_bottle)
 						 or instance_exists(obj_paper)
 						 or instance_exists(obj_garbage)){
 	instance_destroy(obj_bottle)
-	//instance_destroy(obj_cardboard)
-	//instance_destroy(obj_paper)
-	//instance_destroy(obj_garbage)
+	instance_destroy(obj_cardboard)
+	instance_destroy(obj_paper)
+	instance_destroy(obj_garbage)
 }
