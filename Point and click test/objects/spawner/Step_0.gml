@@ -1,8 +1,8 @@
 ///If no recycleables exist,
 itemNamesAllowedToSpawn = []
-array_push(itemNamesAllowedToSpawn, instructions.currentItem[instructions.currentItems[0]], instructions.currentItem[instructions.currentItems[1]])
+array_push(itemNamesAllowedToSpawn, instructions.currentItem[instructions.currentItems[0]], instructions.currentItem[instructions.currentItems[1]], instructions.currentItem[instructions.currentItems[2]])
 currentInstructions = []
-array_push(currentInstructions, instructions.currentNums[0], instructions.currentNums[1])
+array_push(currentInstructions, instructions.currentNums[0], instructions.currentNums[1], instructions.currentNums[2])
 itemsAllowedToSpawn = []
 
 // Do not allow any more recycleables to exist after timer runs out

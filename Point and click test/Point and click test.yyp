@@ -29,6 +29,7 @@
     {"id":{"name":"spr_bear","path":"sprites/spr_bear/spr_bear.yy",},"order":14,},
     {"id":{"name":"obj_beartitle","path":"objects/obj_beartitle/obj_beartitle.yy",},"order":14,},
     {"id":{"name":"spr_garbage","path":"sprites/spr_garbage/spr_garbage.yy",},"order":22,},
+    {"id":{"name":"EnsureNotSame","path":"scripts/EnsureNotSame/EnsureNotSame.yy",},"order":0,},
     {"id":{"name":"snd_wrongBin","path":"sounds/snd_wrongBin/snd_wrongBin.yy",},"order":3,},
     {"id":{"name":"spr_gameovertxt","path":"sprites/spr_gameovertxt/spr_gameovertxt.yy",},"order":19,},
     {"id":{"name":"spr_paper","path":"sprites/spr_paper/spr_paper.yy",},"order":21,},
