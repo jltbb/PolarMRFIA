@@ -50,4 +50,4 @@ switch(side){
 
 alarm_set(0, 200)
 alarm_set(1, 400)
-audio_play_sound(bear_growl, 10, false)
+audio_play_sound(snd_bear_growl, 10, false)
