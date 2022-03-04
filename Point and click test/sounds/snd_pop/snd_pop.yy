@@ -11,14 +11,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "bear_growl.wav",
-  "duration": 7.926021,
+  "soundFile": "snd_pop.wav",
+  "duration": 0.489478,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "bear_growl",
+  "name": "snd_pop",
   "tags": [],
   "resourceType": "GMSound",
 }
