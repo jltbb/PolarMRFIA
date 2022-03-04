@@ -1,7 +1,7 @@
 /// @description Lowers timer
 if !gameOver{
 	timeLeft = clamp(timeLeft, 0, 100)
-	timeLeft -= .075
+	timeLeft -= .085
 }
 
 if (timeLeft <= 0){

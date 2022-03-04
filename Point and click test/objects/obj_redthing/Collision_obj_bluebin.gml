@@ -7,6 +7,7 @@ if !mouse_check_button(mb_left){
 		scoreboard.rightStreak += 1;
 		scoreboard.wrongStreak = 0;
 	}else{
+		scoreboard.timeLeft -= timeLoss;
 		scoreboard.wrongStreak += 1;
 		scoreboard.rightStreak = 0;
 	}
