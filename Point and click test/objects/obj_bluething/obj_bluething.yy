@@ -30,10 +30,7 @@
   ],
   "eventList": [],
   "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"blueval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"redval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"-5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

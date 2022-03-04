@@ -23,12 +23,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
-  "properties": [],
-  "overriddenProperties": [
-    {"propertyId":{"name":"redval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"-5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
-    {"propertyId":{"name":"blueval","path":"objects/obj_redthing/obj_redthing.yy",},"objectId":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"value":"10","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
+  "properties": [],
+  "overriddenProperties": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",

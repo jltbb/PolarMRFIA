@@ -1,8 +1,8 @@
 /// @description Draw instructions onto the screen
-newString1 = string_replace(possibleInstructions[currentNum], "blank1", currentItem[currentItem1])
-newString1 = string_replace(newString1, "blank2", currentBin[currentBin1])
-newString2 = string_replace(possibleInstructions[currentNum2], "blank1", currentItem[currentItem2])
-newString2 = string_replace(newString2, "blank2", currentBin[currentBin2])
+newString1 = string_replace(possibleInstructions[currentNums[0]], "blank1", currentItem[currentItems[0]])
+newString1 = string_replace(newString1, "blank2", currentBin[currentBins[0]])
+newString2 = string_replace(possibleInstructions[currentNums[1]], "blank1", currentItem[currentItems[1]])
+newString2 = string_replace(newString2, "blank2", currentBin[currentBins[1]])
 
 draw_set_font(Font1)
 draw_set_color(c_white)
