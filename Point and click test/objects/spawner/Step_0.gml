@@ -62,8 +62,6 @@ if !(instance_exists(obj_bottle)or instance_exists(obj_cardboard)
 		}
 	}
 }
-//show_debug_message(itemsAllowedToSpawn);
-
 
 if !(instance_exists(obj_bottle) or instance_exists(obj_cardboard)
 						 or instance_exists(obj_paper)
@@ -74,20 +72,16 @@ if !(instance_exists(obj_bottle) or instance_exists(obj_cardboard)
 	rval = -5
 	bval = -5
 	yval = -5
-	show_debug_message(itemsAllowedToSpawn[currentSpawnNum][1])
 	for (i = 0; i < array_length(itemsAllowedToSpawn[currentSpawnNum][1]); i++)
 	{
 		switch itemsAllowedToSpawn[currentSpawnNum][1][i]{
 			case "Red":
-				show_debug_message("Red OK")
 				rval = 10
 				break;
 			case "Blue":
-				show_debug_message("Blue OK")
 				bval = 10
 				break;
 			case "Yellow":
-				show_debug_message("Yellow OK")
 				yval = 10
 				break;
 		}
