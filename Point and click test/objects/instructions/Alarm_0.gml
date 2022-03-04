@@ -31,4 +31,8 @@ if currentNum == currentNum2{
 clamp(currentNum, 0, array_length(possibleInstructions) - 1)
 clamp(currentNum2, 0, array_length(possibleInstructions) - 1)
 
+
+//add sound for instruction change transition
+audio_play_sound(snd_whoosh, 10, false)
+
 alarm_set(0, instructionSwitchTime)
