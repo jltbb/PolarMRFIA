@@ -11,8 +11,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "bear_growl",
-  "duration": 0.0,
+  "soundFile": "bear_growl.wav",
+  "duration": 7.926021,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
