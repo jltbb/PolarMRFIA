@@ -1,6 +1,10 @@
 /// @description Randomizes instructions and puts them on a timer
 currentNum = irandom(array_length(possibleInstructions) - 1)
 currentNum2 = irandom(array_length(possibleInstructions) - 1)
+currentItem1 = irandom(array_length(currentItem) - 1)
+currentItem2 = irandom(array_length(currentItem) - 1)
+currentBin1 = irandom(array_length(currentBin) - 1)
+currentBin2 = irandom(array_length(currentBin) - 1)
 
 // Ensure the two currentNum/currentNum2 do not have same number
 if currentNum == currentNum2{

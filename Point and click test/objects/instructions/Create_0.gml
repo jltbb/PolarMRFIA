@@ -1,12 +1,33 @@
 /// @description Initialize instruction strings
 possibleInstructions = [
-    "Example Instruction #1",
-    "Example Instruction #2",
-    "Example Instruction #3"
+    "Put blank1 in blank2 bin",
+    "Do not put blank1 in blank2 bin",
+	"blank1 can go in any bin except blank2"
+	//"blank1 can go in any bin"
+]
+
+currentItem = [
+	"Cardboard",
+	"Any Bottles",
+	"Red Bottles",
+	"Blue Bottles",
+	"Yellow Bottles",
+	"Paper",
+	"Garbage"
+]
+
+currentBin = [
+	"Red",
+	"Blue",
+	"Yellow"
 ]
 
 currentNum = irandom(array_length(possibleInstructions) - 1)
 currentNum2 = irandom(array_length(possibleInstructions) - 1)
+currentItem1 = irandom(array_length(currentItem) - 1)
+currentItem2 = irandom(array_length(currentItem) - 1)
+currentBin1 = irandom(array_length(currentBin) - 1)
+currentBin2 = irandom(array_length(currentBin) - 1)
 
 // Ensure the two currentNum/currentNum2 do not have same number
 if currentNum == currentNum2{
