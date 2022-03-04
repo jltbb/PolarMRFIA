@@ -18,6 +18,7 @@
     {"id":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},"order":1,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":15,},
     {"id":{"name":"bin_blue","path":"sprites/bin_blue/bin_blue.yy",},"order":12,},
+    {"id":{"name":"bear_growl","path":"sounds/bear_growl/bear_growl.yy",},"order":2,},
     {"id":{"name":"obj_gameovertxt","path":"objects/obj_gameovertxt/obj_gameovertxt.yy",},"order":19,},
     {"id":{"name":"DEVCOMMANDS","path":"objects/DEVCOMMANDS/DEVCOMMANDS.yy",},"order":17,},
     {"id":{"name":"spr_circle3","path":"sprites/spr_circle3/spr_circle3.yy",},"order":6,},
