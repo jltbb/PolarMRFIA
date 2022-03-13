@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"order":18,},
+    {"id":{"name":"obj_credit_button","path":"objects/obj_credit_button/obj_credit_button.yy",},"order":24,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
     {"id":{"name":"instructions","path":"objects/instructions/instructions.yy",},"order":14,},
     {"id":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},"order":2,},
@@ -26,6 +27,7 @@
     {"id":{"name":"obj_cardboard","path":"objects/obj_cardboard/obj_cardboard.yy",},"order":20,},
     {"id":{"name":"obj_restart","path":"objects/obj_restart/obj_restart.yy",},"order":18,},
     {"id":{"name":"spr_skyTile","path":"sprites/spr_skyTile/spr_skyTile.yy",},"order":10,},
+    {"id":{"name":"Credits","path":"rooms/Credits/Credits.yy",},"order":3,},
     {"id":{"name":"spr_bear","path":"sprites/spr_bear/spr_bear.yy",},"order":14,},
     {"id":{"name":"obj_beartitle","path":"objects/obj_beartitle/obj_beartitle.yy",},"order":14,},
     {"id":{"name":"spr_garbage","path":"sprites/spr_garbage/spr_garbage.yy",},"order":22,},
@@ -38,11 +40,13 @@
     {"id":{"name":"obj_title","path":"objects/obj_title/obj_title.yy",},"order":15,},
     {"id":{"name":"spr_backG","path":"sprites/spr_backG/spr_backG.yy",},"order":9,},
     {"id":{"name":"spawner","path":"objects/spawner/spawner.yy",},"order":3,},
+    {"id":{"name":"spr_credits","path":"sprites/spr_credits/spr_credits.yy",},"order":24,},
     {"id":{"name":"spr_bottle","path":"sprites/spr_bottle/spr_bottle.yy",},"order":20,},
     {"id":{"name":"obj_bluebin","path":"objects/obj_bluebin/obj_bluebin.yy",},"order":2,},
     {"id":{"name":"obj_startbutton","path":"objects/obj_startbutton/obj_startbutton.yy",},"order":16,},
     {"id":{"name":"snd_pop","path":"sounds/snd_pop/snd_pop.yy",},"order":1,},
     {"id":{"name":"obj_bottle","path":"objects/obj_bottle/obj_bottle.yy",},"order":23,},
+    {"id":{"name":"spr_credit_button","path":"sprites/spr_credit_button/spr_credit_button.yy",},"order":25,},
     {"id":{"name":"obj_yellowthing","path":"objects/obj_yellowthing/obj_yellowthing.yy",},"order":9,},
     {"id":{"name":"obj_bluething","path":"objects/obj_bluething/obj_bluething.yy",},"order":4,},
     {"id":{"name":"snd_whoosh","path":"sounds/snd_whoosh/snd_whoosh.yy",},"order":4,},
@@ -71,6 +75,7 @@
     {"roomId":{"name":"TitleScreen","path":"rooms/TitleScreen/TitleScreen.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Gameover","path":"rooms/Gameover/Gameover.yy",},},
+    {"roomId":{"name":"Credits","path":"rooms/Credits/Credits.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
