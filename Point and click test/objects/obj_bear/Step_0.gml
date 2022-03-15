@@ -1,5 +1,5 @@
 if movingIn{
-	audio_sound_pitch(snd_background, 0.6)
+	audio_sound_pitch(snd_background, 0.6) //creepy music
 	switch(side){
 		//appear at top of screen
 		case 0:
