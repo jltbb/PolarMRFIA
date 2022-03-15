@@ -1,0 +1,1 @@
+instance_create_layer(1000,500,"Instances",obj_money)
