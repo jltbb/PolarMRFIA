@@ -1,4 +1,5 @@
 if movingIn{
+	audio_sound_pitch(snd_background, 0.6)
 	switch(side){
 		//appear at top of screen
 		case 0:
