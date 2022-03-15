@@ -55,6 +55,7 @@
     {"id":{"name":"snd_whoosh","path":"sounds/snd_whoosh/snd_whoosh.yy",},"order":4,},
     {"id":{"name":"obj_redthing","path":"objects/obj_redthing/obj_redthing.yy",},"order":0,},
     {"id":{"name":"snd_bear","path":"sounds/snd_bear/snd_bear.yy",},"order":0,},
+    {"id":{"name":"snd_background","path":"sounds/snd_background/snd_background.yy",},"order":5,},
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},"order":8,},
     {"id":{"name":"spr_instructions_button","path":"sprites/spr_instructions_button/spr_instructions_button.yy",},"order":26,},
     {"id":{"name":"obj_garbage","path":"objects/obj_garbage/obj_garbage.yy",},"order":22,},
@@ -107,7 +108,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "Point and click test",
