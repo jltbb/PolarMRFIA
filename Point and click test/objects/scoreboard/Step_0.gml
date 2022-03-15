@@ -1,15 +1,10 @@
 /// @description Lowers timer
 if !gameOver{
-	timeLeft = clamp(timeLeft, 0, 100)
-	timeLeft -= .085
+	reputationLeft = clamp(reputationLeft, 0, 100)
+	reputationLeft -= .0275
 }
 
-if (timeLeft <= 0){
-	gameOver = true
-	room_goto_next()
-	audio_play_sound(snd_bear_growl, 10, false)
-}
-if (player_score < 0){
+if (reputationLeft <= 0){
 	gameOver = true
 	room_goto_next()
 	audio_play_sound(snd_bear_growl, 10, false)

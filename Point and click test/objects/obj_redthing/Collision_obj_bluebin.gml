@@ -1,13 +1,19 @@
 //If an object is not selected over a bin, destroy it and add score
 if !mouse_check_button(mb_left){
 	
+	if instance_exists(obj_bear) and obj_bear.movingIn
+	{
+		extraTime *= 2
+		timeLoss *= 2
+	}
+	
 	scoreboard.player_score += blueval;
 	if blueval > 0{
-		scoreboard.timeLeft += extraTime;
+		scoreboard.reputationLeft += extraTime;
 		scoreboard.rightStreak += 1;
 		scoreboard.wrongStreak = 0;
 	}else{
-		scoreboard.timeLeft -= timeLoss;
+		scoreboard.reputationLeft -= timeLoss;
 		scoreboard.wrongStreak += 1;
 		scoreboard.rightStreak = 0;
 	}
