@@ -35,6 +35,7 @@
     {"id":{"name":"EnsureNotSame","path":"scripts/EnsureNotSame/EnsureNotSame.yy",},"order":0,},
     {"id":{"name":"snd_wrongBin","path":"sounds/snd_wrongBin/snd_wrongBin.yy",},"order":3,},
     {"id":{"name":"spr_gameovertxt","path":"sprites/spr_gameovertxt/spr_gameovertxt.yy",},"order":19,},
+    {"id":{"name":"background_music","path":"objects/background_music/background_music.yy",},"order":28,},
     {"id":{"name":"spr_coldhardcash","path":"sprites/spr_coldhardcash/spr_coldhardcash.yy",},"order":27,},
     {"id":{"name":"spr_paper","path":"sprites/spr_paper/spr_paper.yy",},"order":21,},
     {"id":{"name":"spr_gameoverBG","path":"sprites/spr_gameoverBG/spr_gameoverBG.yy",},"order":17,},
@@ -111,7 +112,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2022.2.0.614",
+    "IDEVersion": "2022.2.1.618",
   },
   "resourceVersion": "1.5",
   "name": "Point and click test",
