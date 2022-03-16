@@ -24,6 +24,7 @@ Instructions:
 Cheat Codes:
 	- Esc - Return to main menu
 	- S   - Spawn Bear
+	- W	  - Go to Win screen
 ~*~~*~~*~~*~~*~~*~
 
 ~*~~*~~*~~*~~*~~*~
