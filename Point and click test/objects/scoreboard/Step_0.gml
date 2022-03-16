@@ -14,7 +14,7 @@ if (reputationLeft <= 0){
 if (reputationLeft >= 99){
 	gameOver = true
 	room_goto(Win)
-	show_debug_message("SKRRR WIN")
+	//show_debug_message("SKRRR WIN")
 	// TODO: add some like parade sound
 }
 
