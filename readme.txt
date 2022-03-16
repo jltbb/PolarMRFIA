@@ -32,7 +32,6 @@ Licensing Information:
 	Artwork
 		- All main artwork by Michelle Sobolewski
 		- Win screen cash sprite - Kevin Salley
-		- *** ADD INFO
 	Audio
 		- Main Soundtrack - Guitar played by Kasey Auten
 						  - Drums and Mixing by Ken Balint
