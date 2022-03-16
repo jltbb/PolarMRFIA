@@ -24,9 +24,9 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"080fbe10-97a5-4949-86ed-b881c0f3fe30","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"080fbe10-97a5-4949-86ed-b881c0f3fe30","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"LayerId":{"name":"b6868480-922e-4dc9-9201-9803d8a58469","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","name":"080fbe10-97a5-4949-86ed-b881c0f3fe30","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"02c8d807-e13c-410a-858a-23d069d58bfa","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"02c8d807-e13c-410a-858a-23d069d58bfa","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"LayerId":{"name":"de54ab25-bf17-47ff-981a-b4a1d032adea","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","name":"02c8d807-e13c-410a-858a-23d069d58bfa","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_restartbutton","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"2d52b228-d9ed-4b06-9ce3-54ba9adc4057","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"080fbe10-97a5-4949-86ed-b881c0f3fe30","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"d5873438-e3d9-425b-a7d4-64810e4b5859","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"02c8d807-e13c-410a-858a-23d069d58bfa","path":"sprites/spr_restartbutton/spr_restartbutton.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b6868480-922e-4dc9-9201-9803d8a58469","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"de54ab25-bf17-47ff-981a-b4a1d032adea","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
