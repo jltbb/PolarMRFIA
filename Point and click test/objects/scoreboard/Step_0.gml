@@ -6,7 +6,7 @@ if !gameOver{
 
 if (reputationLeft <= 0){
 	gameOver = true
-	room_goto_next()
+	room_goto(Gameover)
 	audio_stop_sound(snd_background)
 	audio_play_sound(snd_bear_growl, 10, false)
 }
